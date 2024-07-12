@@ -17,6 +17,7 @@ To deliver insights from HR dataset and study Working preference of employees Ho
    2. KPI's
 
 **Steps involved:**
+
   **1. ETL [Data Extraction,Transform,Loading]:**
 The data was imported from excel file,using power query the data transformation and unpivoting columns were done.
 
@@ -30,6 +31,7 @@ A clear dashboard was build representing the all requirements that initially not
 Data was analysed by using all the metrics and graphs the insights were found that will help the HR to take decisions.
 
 **Key Insights:**
+
 -Present % was highest in the month of April ie. 93.97%.
 
 -WFH % was highest in the month of June ie. 14.39%.
